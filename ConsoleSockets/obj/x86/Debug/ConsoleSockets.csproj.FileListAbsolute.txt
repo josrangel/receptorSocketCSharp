@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2010\Projects\ConsoleSockets\ConsoleSockets\bin\Debug\ConsoleSockets.exe
+c:\users\dell\documents\visual studio 2010\Projects\ConsoleSockets\ConsoleSockets\bin\Debug\ConsoleSockets.pdb
+c:\users\dell\documents\visual studio 2010\Projects\ConsoleSockets\ConsoleSockets\obj\x86\Debug\ConsoleSockets.exe
+c:\users\dell\documents\visual studio 2010\Projects\ConsoleSockets\ConsoleSockets\obj\x86\Debug\ConsoleSockets.pdb
